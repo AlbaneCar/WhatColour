@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "3444834172",
+    "firebase_url": "https://what-colour-cloud-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "what-colour-cloud",
+    "storage_bucket": "what-colour-cloud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3444834172:android:35aaeb72f7f395cbb92ef9",
+        "android_client_info": {
+          "package_name": "fr.eseo.ld.android.ac.colourcloud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkNTE6MCYCRCi-2SewkMuCdg-aCHaaz9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

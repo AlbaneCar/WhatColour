@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">What Colour</string>
+    <string name="back_button">back</string>
+    <string name="game_description">
+ How many colours can you correctly identify within 60 seconds?
+ </string>
+    <string name="play_game_button">Play the Game!</string>
+    <string name="last_score">Last local score : %d points</string>
+    <string name="local_high_score">Best score this device : %d points</string>
+    <string name="show_global_scores_button">Show Global Scores</string>
+    <string name="time_left_label">You have %02d.%02d seconds left</string>
+    <string name="game_over">Game Over!</string>
+    <string name="play_game_ls_button">Play!</string>
+    <string name="show_global_scores_ls_button">Global Scores</string>
+    <string name="actual_message">The actual colour was %s,</string>
+    <string name="guessed_message">you guessed %s.</string>
+    <string name="colour_black">Black</string>
+    <string name="colour_blue">Blue</string>
+    <string name="colour_red">Red</string>
+    <string name="colour_purple">Purple</string>
+    <string name="colour_green">Green</string>
+    <string name="colour_cyan">Cyan</string>
+    <string name="colour_yellow">Yellow</string>
+    <string name="colour_white">White</string>
+    <string name="colour_brown">Brown</string>
+    <string name="colour_orange">Orange</string>
+    <string name="colour_pink">Pink</string>
+    <string name="colour_grey">Grey</string>
+</resources>
